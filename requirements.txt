@@ -1,0 +1,4 @@
+numpy
+joblib
+sklearn
+newspaper3k

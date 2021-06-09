@@ -1,0 +1,33 @@
+C = 10.0
+train_accuracy: 0.9949050623537427
+test_accuracy: 0.8906755603200127
+C = 0.1
+train_accuracy: 0.9350987884712225
+test_accuracy: 0.9075893832013182
+C = 0.2
+train_accuracy: 0.9490802452679286
+test_accuracy: 0.9107855398725507
+C = 0.3
+train_accuracy: 0.95663378654581
+test_accuracy: 0.9110039108252437
+C = 0.4
+train_accuracy: 0.9619656980360792
+test_accuracy: 0.9109642070156632
+C = 0.5
+train_accuracy: 0.9655203056962588
+test_accuracy: 0.9109840589204534
+C = 0.6
+train_accuracy: 0.9687490743209218
+test_accuracy: 0.9110833184444047
+C = 0.7
+train_accuracy: 0.9715927604490654
+test_accuracy: 0.9107656879677605
+C = 0.8
+train_accuracy: 0.9731330904351432
+test_accuracy: 0.9100311674905207
+C = 0.9
+train_accuracy: 0.9749992594567375
+test_accuracy: 0.9094157584420225
+C = 1.0
+train_accuracy: 0.9763026155988033
+test_accuracy: 0.9090187203462172
